@@ -49,6 +49,6 @@ function generateFibonacci(n) {
 }
 
 
-// Spuštění generování Fibonacciho posloupnosti s 12 prvky
-const n = 12;
+// Spuštění generování Fibonacciho posloupnosti s 6 prvky
+const n = 6;
 generateFibonacci(n);
