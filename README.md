@@ -10,7 +10,8 @@ Fibonacciho posloupnost byla poprvé popsána italským matematikem <a href="htt
 Zdroj: Fibonacciho posloupnost. Online. Dostupné z: https://cs.wikipedia.org/wiki/Fibonacciho_posloupnost. [cit. 2025-02-02].
 
 ## Výstup z aplikace
-<img width="642" alt="image" src="https://github.com/user-attachments/assets/79db4de1-b16d-49a7-988f-39adee8ffbf2" />
+![image](https://github.com/user-attachments/assets/f510b673-725b-4602-b813-9458f99d88f4)
+
 
 ## Další rozšíření jako úkol pro Tebe
 
