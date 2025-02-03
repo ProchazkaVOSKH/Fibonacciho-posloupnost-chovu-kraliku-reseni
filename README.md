@@ -15,6 +15,6 @@ Zdroj: Fibonacciho posloupnost. Online. Dostupné z: https://cs.wikipedia.org/wi
 
 ## Další rozšíření jako úkol pro Tebe
 
-Naprogramuj rozšíření uvedené aplikace tak, aby uživatel zadal v m2 rozměr svého pozemku.  
+Naprogramuj rozšíření uvedené aplikace tak, aby uživatel zadal v m² rozměr svého pozemku.  
 Aplikace následně spočítá a vypíše, kolik měsíců by byl možné na uvedeném pozemku králíky podle Fibonacciho posloupnosti chovat. 
 Uvažujme při výpočtu i to, že tráva bude dostatečně rychle dorůstat.
