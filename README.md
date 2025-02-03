@@ -7,6 +7,10 @@ Fibonacciho posloupnost byla poprvé popsána italským matematikem <a href="htt
 - každý měsíc zplodí každý produktivní pár jeden další pár
 - králíci nikdy neumírají, nejsou nemocní atd.
 
+## Růst populace králíků vyjadřuje obrázek    
+![image](https://github.com/user-attachments/assets/2ec7478a-4125-4f0b-9eed-c58aa82fcb45)
+
+
 Zdroj: Fibonacciho posloupnost. Online. Dostupné z: https://cs.wikipedia.org/wiki/Fibonacciho_posloupnost. [cit. 2025-02-02].
 
 ## Výstup z aplikace
